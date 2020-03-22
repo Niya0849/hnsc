@@ -1,4 +1,4 @@
-# Foobar(Nayi' program)
+# Niya project
 
 Foobar is a Python library for dealing with word pluralization.
 
